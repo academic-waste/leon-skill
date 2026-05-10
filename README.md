@@ -8,6 +8,7 @@ Current MVP coverage:
   - frameworks
   - values
   - tactics
+  - voice calibration
 - 根学 / Root Theory
   - 灵根学
   - 浮根学
@@ -81,6 +82,7 @@ node leon/scripts/search_evidence.mjs 熊野古道
 - `leon/references/leon-frameworks.md`: cross-topic thinking frameworks
 - `leon/references/leon-values.md`: recurring values and worldview priorities
 - `leon/references/leon-tactics.md`: practical tactics and exercises
+- `leon/references/leon-voice.md`: voice calibration for softer, less tactical answers
 - `leon/references/leon-root-theory.md`: Root Theory reference
 - `leon/references/leon-wealth-freedom.md`: wealth and freedom reference
 - `leon/references/leon-worldview.md`: success, happiness, and life meaning reference
