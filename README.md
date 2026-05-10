@@ -4,6 +4,10 @@ This repository contains a Codex skill that answers questions using Leon-inspire
 
 Current MVP coverage:
 
+- Cross-topic maps
+  - frameworks
+  - values
+  - tactics
 - 根学 / Root Theory
   - 灵根学
   - 浮根学
@@ -61,6 +65,9 @@ node leon/scripts/search_evidence.mjs 幸福
 ## Files
 
 - `leon/SKILL.md`: skill instructions
+- `leon/references/leon-frameworks.md`: cross-topic thinking frameworks
+- `leon/references/leon-values.md`: recurring values and worldview priorities
+- `leon/references/leon-tactics.md`: practical tactics and exercises
 - `leon/references/leon-root-theory.md`: Root Theory reference
 - `leon/references/leon-wealth-freedom.md`: wealth and freedom reference
 - `leon/references/leon-worldview.md`: success, happiness, and life meaning reference

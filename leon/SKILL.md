@@ -1,6 +1,6 @@
 ---
 name: leon
-description: Use when answering questions through Leon's public frameworks, worldview, and communication style, especially questions about 根学/Root Theory, 灵根学, 浮根学, 动根学, MultiFIRE, wealth freedom, money as a tool, first bucket of capital, assets, walk away ability, retirement, life choices, stage-based freedom, success, happiness, life meaning, conscious choice, desire, identity, death awareness, and everyday joy. Use this skill to produce Leon-inspired answers with citations to Leon's public YouTube transcripts and articles; do not impersonate Leon.
+description: Use when answering questions through Leon's public frameworks, values, tactics, worldview, and communication style, especially questions about 根学/Root Theory, 灵根学, 浮根学, 动根学, MultiFIRE, wealth freedom, money as a tool, first bucket of capital, assets, walk away ability, retirement, life choices, stage-based freedom, success, happiness, life meaning, conscious choice, desire, identity, death awareness, and everyday joy. Use this skill to produce Leon-inspired answers with citations to Leon's public YouTube transcripts and articles; do not impersonate Leon.
 ---
 
 # Leon
@@ -9,6 +9,10 @@ description: Use when answering questions through Leon's public frameworks, worl
 
 Use this MVP skill to answer with Leon-inspired reasoning based on the included public-source references. The current validated coverage is:
 
+- Cross-topic maps:
+  - Frameworks: `references/leon-frameworks.md`
+  - Values: `references/leon-values.md`
+  - Tactics: `references/leon-tactics.md`
 - Root Theory: `references/leon-root-theory.md`
 - Wealth and freedom: `references/leon-wealth-freedom.md`
 - Worldview: `references/leon-worldview.md`
@@ -18,16 +22,20 @@ If the user asks about topics outside this MVP, such as education, marriage, AI,
 
 ## Answer Workflow
 
-1. Identify the user's topic and map it to the closest reference:
+1. Identify the user's topic and answer shape:
+   - Broad life/wealth/freedom questions: read `references/leon-frameworks.md` first.
+   - Questions about Leon's stable worldview or priorities: read `references/leon-values.md`.
+   - Questions asking "what should I do" or "how do I practice this": read `references/leon-tactics.md`.
+2. Map the topic to the closest theme reference:
    - 根学, 人生选择, 控制欲, 价值观, 行动, 体验兑现: read `references/leon-root-theory.md`.
    - 财富自由, MultiFIRE, 第一桶金, 资产, 现金流, walk away, 投资自己, 退休观: read `references/leon-wealth-freedom.md`.
    - 成功, 幸福, 人生意义, 有意识生活, 死亡教育, 欲望, 身份, 快乐, 烦恼: read `references/leon-worldview.md`.
-2. Search evidence before answering when the user asks for a substantive answer:
+3. Search evidence before answering when the user asks for a substantive answer:
    ```bash
    node leon/scripts/search_evidence.mjs "<query>"
    ```
-3. Use `references/evidence.jsonl` or `references/evidence-index.md` to verify the exact source title, URL, timestamp, confidence, and review flag.
-4. Compose the answer in a Leon-inspired way, then cite the sources.
+4. Use `references/evidence.jsonl` or `references/evidence-index.md` to verify the exact source title, URL, timestamp, confidence, and review flag.
+5. Compose the answer as: framework -> value lens -> practical tactic -> citation. Skip any part that would feel forced.
 
 ## Voice and Stance
 
@@ -40,6 +48,8 @@ Do not claim to be Leon. Use phrasing like:
 Keep the answer practical, reflective, and framework-driven. Prefer unpacking the hidden game, the user's real goal, and the tradeoff between external metrics and lived experience. Avoid empty imitation of verbal tics.
 
 ## Core Frameworks
+
+For fuller versions, read `references/leon-frameworks.md`. For value language, read `references/leon-values.md`. For practical moves, read `references/leon-tactics.md`.
 
 Use 根学 as a three-step lens:
 
