@@ -2,7 +2,7 @@
 
 This is the seed evidence layer generated from curated transcript chunks. It is not the final skill reference, but the traceable support for it.
 
-Total evidence cards: 50
+Total evidence cards: 47
 
 | ID | Themes | Confidence | Claim | Source | Time | Review |
 |---|---|---|---|---|---|---|
@@ -38,9 +38,6 @@ ev_worldview_010 | 二元化思维, 欲望, 成功, 价值观 | high | 摆脱烦
 ev_worldview_011 | 人生意义, 过程, 当下, 旅行 | high | 人生像一段从出生到死亡的路，追求走快本身没有意义；意义在于走慢一点，欣赏路上的风景和每个当下。 | [时速二十公里颠簸坐车进尼泊尔却很享受？｜追求成功就不是成功｜人类真的比动物更高级吗｜如何寻找内心的热血沸腾｜享受自己的性格特点 i人的自洽](https://www.youtube.com/watch?v=o8cVm323BMo) | 00:02:51-00:04:16 | no
 ev_worldview_012 | 成功, 无为, 水, 顺应自然 | high | 追求成功本身可能让人偏离成功；更好的方式是像水一样顺应变化、随机应变，持续做该做的事。 | [时速二十公里颠簸坐车进尼泊尔却很享受？｜追求成功就不是成功｜人类真的比动物更高级吗｜如何寻找内心的热血沸腾｜享受自己的性格特点 i人的自洽](https://www.youtube.com/watch?v=o8cVm323BMo) | 00:10:13-00:11:43 | no
 ev_worldview_013 | 身份, 快乐, 谦卑, 自由 | high | 放下身份会减少思想束缚；身份越强，价值判断越容易受限，放低自己反而更容易快乐。 | [时速二十公里颠簸坐车进尼泊尔却很享受？｜追求成功就不是成功｜人类真的比动物更高级吗｜如何寻找内心的热血沸腾｜享受自己的性格特点 i人的自洽](https://www.youtube.com/watch?v=o8cVm323BMo) | 00:14:41-00:16:09 | no
-ev_worldview_014 | 成功, 舒服, 自由, 外部标准 | high | 成功不能只看外部评价；如果一个人在别人眼里成功但自己不舒服，那不一定是自己的成功，强加一种成功模式本身就是问题。 | [什么是人生的成功与自由？品牌教父访谈｜人生上半场创造价值，下半场寻找意义｜埃及之旅首站开罗](https://www.youtube.com/watch?v=Q3aZF2Aujqk) | 00:13:16-00:14:48 | no
-ev_worldview_015 | 慢下来, 舒服, 观察者视角, 旅行, 当下 | high | 慢下来、不急着给自己定义目标，能让人更看清哪些东西是真正喜欢和舒服的；旅行者或过路人的状态也更容易让人用观察者视角看社会。 | [【第五集】MultiFIRE的挑战有哪些？｜成功和幸福如何定义｜人为什么要思考](https://www.youtube.com/watch?v=8YgamMnJnWA) | 00:03:54-00:05:15 | no
-ev_worldview_016 | 自由, 出世入世, 体验人生, 游戏 | high | 自由不是只能待在深山老林里才舒服，而是既能体会出世的清静，也能回到入世游戏里洒脱、深入、自由地体验人生。 | [【Ep.3】悉尼MultiFIRE社群见面会｜设计好的标准人生轨道真的快乐吗｜学渣的自我成长之路｜成功是不再必须去做自己不喜欢的事｜一直不断游牧的生活是怎样感受｜在人生多个角色当中是否得到相应的体验](https://www.youtube.com/watch?v=_ALEbbHbyzs) | 00:15:32-00:17:02 | no
 ev_experience_001 | 旅行体验, 泰国, 曼谷, 泼水节, 节庆 | high | 曼谷泼水节适合体验街头节庆能量：路上会有密集人群、水枪、街头蹦迪和跨文化相遇，适合想感受热闹公共庆典的人。 | [曼谷泼水节的疯狂夜晚｜阻碍交通也要嗨玩的曼谷街头泼水节｜在马路上蹦迪的泼水节｜与埃及朋友聊埃及的真实经济和生活状况](https://www.youtube.com/watch?v=XGHlREjzVos) | 00:03:04-00:04:08 | no
 ev_experience_002 | 旅行体验, 泰国, 清迈, 天灯节, 节庆 | high | 清迈天灯节适合推荐给想体验仪式感和视觉震撼的人：放水灯、诵经和成千上万天灯升空，现场像银河一样。 | [【特辑】一场光的盛宴｜清迈天灯节全记录｜CAD万人场，国际学校庆典，塔佩门外活动](https://www.youtube.com/watch?v=3iZSFz4kYQ8) | 00:02:12-00:03:16 | no
 ev_experience_003 | 旅行体验, 泰国, 清迈, 香巴拉音乐节, 社群 | medium | 清迈香巴拉音乐节可以作为偏精神性和社群感的体验推荐：它被描述为由日本人创建、兼具音乐节和生活方式实验的活动。 | [人生体验推荐：清迈香巴拉音乐节｜与来自世界各地的自由的灵魂对话｜现实版约翰列侬描绘的没有边界，没有分裂的世界｜逃离的不是物质世界，而是物质意识](https://www.youtube.com/watch?v=tNnLLNmr6Ns) | 00:00:00-00:01:30 | yes

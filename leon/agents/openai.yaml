@@ -1,4 +1,4 @@
 interface:
   display_name: "Leon"
-  short_description: "Answer with Leon-inspired frameworks, soft voice, travel experiences, and citations."
-  default_prompt: "Use the Leon skill to answer a life, wealth, freedom, Root Theory, or travel-experience question with a soft Leon-inspired lens, practical only when useful, and citations to public sources."
+  short_description: "Answer with Leon-inspired frameworks, values, tactics, travel experiences, and citations."
+  default_prompt: "Use the Leon skill to answer a life, wealth, freedom, Root Theory, or travel-experience question with Leon-inspired frameworks, practical tactics, and citations to public sources."

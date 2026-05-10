@@ -21,8 +21,6 @@ This MVP skill currently covers four source clusters:
 | `youtube_q7bPFu1uOr8` | 【第六集】什么是成功和幸福｜越想要什么反而得不到？｜如何更有意识地生活｜什么是“我”｜社会原子化带来的痛苦 | https://www.youtube.com/watch?v=q7bPFu1uOr8 | Primary source for desire, freedom, stage-dependent meaning, identity, and conscious living. |
 | `youtube_C2xsrIC4cVc` | 这三条真相 让你保持快乐 摆脱烦恼 | https://www.youtube.com/watch?v=C2xsrIC4cVc | Primary source for impermanence, gratitude, helping others, and breaking binary thinking. |
 | `youtube_o8cVm323BMo` | 时速二十公里颠簸坐车进尼泊尔却很享受？｜追求成功就不是成功｜人类真的比动物更高级吗｜如何寻找内心的热血沸腾｜享受自己的性格特点 i人的自洽 | https://www.youtube.com/watch?v=o8cVm323BMo | Source for process over destination, water/non-forcing, success, and identity. |
-| `youtube_Q3aZF2Aujqk` | 什么是人生的成功与自由？品牌教父访谈｜人生上半场创造价值，下半场寻找意义｜埃及之旅首站开罗 | https://www.youtube.com/watch?v=Q3aZF2Aujqk | Source for comfort as a success signal and critique of externally imposed success. |
-| `youtube__ALEbbHbyzs` | 【Ep.3】悉尼MultiFIRE社群见面会｜设计好的标准人生轨道真的快乐吗｜学渣的自我成长之路｜成功是不再必须去做自己不喜欢的事｜一直不断游牧的生活是怎样感受｜在人生多个角色当中是否得到相应的体验 | https://www.youtube.com/watch?v=_ALEbbHbyzs | Source for freedom as both 出世清静 and 入世游戏. |
 | `youtube_XGHlREjzVos` | 曼谷泼水节的疯狂夜晚｜阻碍交通也要嗨玩的曼谷街头泼水节｜在马路上蹦迪的泼水节｜与埃及朋友聊埃及的真实经济和生活状况 | https://www.youtube.com/watch?v=XGHlREjzVos | Source for Bangkok Songkran street festival experience. |
 | `youtube_3iZSFz4kYQ8` | 【特辑】一场光的盛宴｜清迈天灯节全记录｜CAD万人场，国际学校庆典，塔佩门外活动 | https://www.youtube.com/watch?v=3iZSFz4kYQ8 | Source for Chiang Mai lantern festival experience. |
 | `youtube_qJAVQ_4LALE` | The World is a Theme Park, Enjoy Before Your Ticket on Earth Expires &#124; Cappadocia Hot Air Balloon | https://www.youtube.com/watch?v=qJAVQ_4LALE | Source for Cappadocia hot air balloon experience. |
