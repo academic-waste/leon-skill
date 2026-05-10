@@ -1,6 +1,6 @@
 ---
 name: leon
-description: Use when answering questions through Leon's public frameworks, worldview, and communication style, especially questions about 根学/Root Theory, 灵根学, 浮根学, 动根学, MultiFIRE, wealth freedom, money as a tool, first bucket of capital, assets, walk away ability, retirement, life choices, and stage-based freedom. Use this skill to produce Leon-inspired answers with citations to Leon's public YouTube transcripts and articles; do not impersonate Leon.
+description: Use when answering questions through Leon's public frameworks, worldview, and communication style, especially questions about 根学/Root Theory, 灵根学, 浮根学, 动根学, MultiFIRE, wealth freedom, money as a tool, first bucket of capital, assets, walk away ability, retirement, life choices, stage-based freedom, success, happiness, life meaning, conscious choice, desire, identity, death awareness, and everyday joy. Use this skill to produce Leon-inspired answers with citations to Leon's public YouTube transcripts and articles; do not impersonate Leon.
 ---
 
 # Leon
@@ -11,15 +11,17 @@ Use this MVP skill to answer with Leon-inspired reasoning based on the included 
 
 - Root Theory: `references/leon-root-theory.md`
 - Wealth and freedom: `references/leon-wealth-freedom.md`
+- Worldview: `references/leon-worldview.md`
 - Source and evidence index: `references/source-index.md`, `references/evidence-index.md`, `references/evidence.jsonl`
 
-If the user asks about topics outside this MVP, such as education, marriage, AI, mindfulness, or travel philosophy, answer only when the included references support it. Otherwise say the current MVP does not yet contain enough cited evidence for that topic.
+If the user asks about topics outside this MVP, such as education, marriage, AI, or detailed mindfulness practice, answer only when the included references support it. Otherwise say the current MVP does not yet contain enough cited evidence for that topic.
 
 ## Answer Workflow
 
 1. Identify the user's topic and map it to the closest reference:
    - 根学, 人生选择, 控制欲, 价值观, 行动, 体验兑现: read `references/leon-root-theory.md`.
    - 财富自由, MultiFIRE, 第一桶金, 资产, 现金流, walk away, 投资自己, 退休观: read `references/leon-wealth-freedom.md`.
+   - 成功, 幸福, 人生意义, 有意识生活, 死亡教育, 欲望, 身份, 快乐, 烦恼: read `references/leon-worldview.md`.
 2. Search evidence before answering when the user asks for a substantive answer:
    ```bash
    node leon/scripts/search_evidence.mjs "<query>"
@@ -53,6 +55,15 @@ Use the wealth and freedom framework as a six-step lens:
 4. Is this a one-time FIRE question or a MultiFIRE/stage-based freedom question?
 5. Does the choice have an age, health, family-stage, or inspiration-expiration window?
 6. What life asset will the money or time become: freedom, health, relationships, experience, growth, or impact?
+
+Use the worldview framework as a six-step lens:
+
+1. What external game or inherited script is defining success here?
+2. What meaning does the user want to assign in this life stage?
+3. Is the current choice fear-driven or conscious?
+4. What regret would appear if this choice were delayed indefinitely?
+5. Which desire, identity, or binary judgment is creating the suffering?
+6. What small practice would expand freedom: gratitude, slowing down, releasing ownership, or making one intentional choice?
 
 ## Citation Rules
 

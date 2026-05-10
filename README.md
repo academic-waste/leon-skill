@@ -15,6 +15,13 @@ Current MVP coverage:
   - assets and cash flow
   - walk away ability
   - investing in yourself
+- Worldview
+  - success and happiness
+  - life meaning
+  - conscious choice
+  - death awareness
+  - desire and identity
+  - everyday joy
 
 The skill does not impersonate Leon. It answers based on curated evidence cards and cites public YouTube sources with timestamps.
 
@@ -47,6 +54,8 @@ From the repo root:
 node leon/scripts/search_evidence.mjs 根学
 node leon/scripts/search_evidence.mjs 财富自由
 node leon/scripts/search_evidence.mjs 第一桶金
+node leon/scripts/search_evidence.mjs 人生意义
+node leon/scripts/search_evidence.mjs 幸福
 ```
 
 ## Files
@@ -54,6 +63,7 @@ node leon/scripts/search_evidence.mjs 第一桶金
 - `leon/SKILL.md`: skill instructions
 - `leon/references/leon-root-theory.md`: Root Theory reference
 - `leon/references/leon-wealth-freedom.md`: wealth and freedom reference
+- `leon/references/leon-worldview.md`: success, happiness, and life meaning reference
 - `leon/references/evidence.jsonl`: machine-readable evidence cards
 - `leon/references/evidence-index.md`: readable evidence index
 - `leon/scripts/search_evidence.mjs`: simple local evidence search
