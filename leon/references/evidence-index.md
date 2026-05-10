@@ -2,7 +2,7 @@
 
 This is the seed evidence layer generated from curated transcript chunks. It is not the final skill reference, but the traceable support for it.
 
-Total evidence cards: 32
+Total evidence cards: 47
 
 | ID | Themes | Confidence | Claim | Source | Time | Review |
 |---|---|---|---|---|---|---|
@@ -38,3 +38,18 @@ ev_worldview_010 | 二元化思维, 欲望, 成功, 价值观 | high | 摆脱烦
 ev_worldview_011 | 人生意义, 过程, 当下, 旅行 | high | 人生像一段从出生到死亡的路，追求走快本身没有意义；意义在于走慢一点，欣赏路上的风景和每个当下。 | [时速二十公里颠簸坐车进尼泊尔却很享受？｜追求成功就不是成功｜人类真的比动物更高级吗｜如何寻找内心的热血沸腾｜享受自己的性格特点 i人的自洽](https://www.youtube.com/watch?v=o8cVm323BMo) | 00:02:51-00:04:16 | no
 ev_worldview_012 | 成功, 无为, 水, 顺应自然 | high | 追求成功本身可能让人偏离成功；更好的方式是像水一样顺应变化、随机应变，持续做该做的事。 | [时速二十公里颠簸坐车进尼泊尔却很享受？｜追求成功就不是成功｜人类真的比动物更高级吗｜如何寻找内心的热血沸腾｜享受自己的性格特点 i人的自洽](https://www.youtube.com/watch?v=o8cVm323BMo) | 00:10:13-00:11:43 | no
 ev_worldview_013 | 身份, 快乐, 谦卑, 自由 | high | 放下身份会减少思想束缚；身份越强，价值判断越容易受限，放低自己反而更容易快乐。 | [时速二十公里颠簸坐车进尼泊尔却很享受？｜追求成功就不是成功｜人类真的比动物更高级吗｜如何寻找内心的热血沸腾｜享受自己的性格特点 i人的自洽](https://www.youtube.com/watch?v=o8cVm323BMo) | 00:14:41-00:16:09 | no
+ev_experience_001 | 旅行体验, 泰国, 曼谷, 泼水节, 节庆 | high | 曼谷泼水节适合体验街头节庆能量：路上会有密集人群、水枪、街头蹦迪和跨文化相遇，适合想感受热闹公共庆典的人。 | [曼谷泼水节的疯狂夜晚｜阻碍交通也要嗨玩的曼谷街头泼水节｜在马路上蹦迪的泼水节｜与埃及朋友聊埃及的真实经济和生活状况](https://www.youtube.com/watch?v=XGHlREjzVos) | 00:03:04-00:04:08 | no
+ev_experience_002 | 旅行体验, 泰国, 清迈, 天灯节, 节庆 | high | 清迈天灯节适合推荐给想体验仪式感和视觉震撼的人：放水灯、诵经和成千上万天灯升空，现场像银河一样。 | [【特辑】一场光的盛宴｜清迈天灯节全记录｜CAD万人场，国际学校庆典，塔佩门外活动](https://www.youtube.com/watch?v=3iZSFz4kYQ8) | 00:02:12-00:03:16 | no
+ev_experience_003 | 旅行体验, 泰国, 清迈, 香巴拉音乐节, 社群 | medium | 清迈香巴拉音乐节可以作为偏精神性和社群感的体验推荐：它被描述为由日本人创建、兼具音乐节和生活方式实验的活动。 | [人生体验推荐：清迈香巴拉音乐节｜与来自世界各地的自由的灵魂对话｜现实版约翰列侬描绘的没有边界，没有分裂的世界｜逃离的不是物质世界，而是物质意识](https://www.youtube.com/watch?v=tNnLLNmr6Ns) | 00:00:00-00:01:30 | yes
+ev_experience_004 | 旅行体验, 土耳其, 卡帕多奇亚, 热气球, 浪漫 | high | 卡帕多奇亚热气球适合推荐给想要宁静、浪漫、地貌奇观体验的人；Leon 形容飞行很平稳、peaceful，并直接推荐大家体验。 | [The World is a Theme Park, Enjoy Before Your Ticket on Earth Expires &#124; Cappadocia Hot Air Balloon](https://www.youtube.com/watch?v=qJAVQ_4LALE) | 00:05:42-00:07:12 | no
+ev_experience_005 | 旅行体验, 土耳其, 卡帕多奇亚, 骑马, 日落 | high | 卡帕多奇亚骑马看日落适合推荐给想进入“游戏场景”的人：骑马穿过山洞、石坡和 Rose Valley，既有寂静感也有轻微冒险感。 | [在这里进入了游戏场景｜让我们策马奔腾共享人世繁华｜卡帕多奇亚骑马｜绝美梦幻落日](https://www.youtube.com/watch?v=WHJHaSktN-0) | 00:04:29-00:06:00 | no
+ev_experience_006 | 旅行体验, 印尼, 巴厘岛, 做饭, 本地市场, 农场 | high | 巴厘岛可以推荐“从市场和农场开始学做本地饭”的体验：赶早集、认识香料和食材、在农场做饭，还能让孩子参与采摘和传统服装体验。 | [Being a Chef in Bali for a day, getting ingredients from local market and farm](https://www.youtube.com/watch?v=7Vyr98ckY9Y) | 00:00:00-00:00:58 | no
+ev_experience_007 | 旅行体验, 印尼, 巴厘岛, 自然民宿, 秋千 | high | 巴厘岛 Zen Hideaway 这类没有墙、面向山谷和瀑布的民宿适合推荐给想离开钢筋水泥、体验自然居住和 Bali Swing 的人。 | [住没有墙的房子是什么体验｜视频最后聊聊离开钢筋水泥的生活有什么好处｜人生必体验的巴厘岛神仙级民宿](https://www.youtube.com/watch?v=9koBv2VVtOs) | 00:04:37-00:05:46 | no
+ev_experience_008 | 旅行体验, 尼泊尔, EBC, 徒步, 珠峰 | high | EBC 徒步适合推荐给想用身体进入自然和自我挑战的人：路上有村庄、吊桥、瀑布、牦牛队、垂直爬升，也会逐渐远离城市信号。 | [降落全球最危险机场，EBC第一天挑战徒步10小时｜经幡六字真言与雪山瀑布的震撼之旅](https://www.youtube.com/watch?v=g2s3fVMlX5U) | 00:10:19-00:11:53 | no
+ev_experience_009 | 旅行体验, 尼泊尔, EBC, 珠峰大本营, 人生仪式 | high | 走到珠峰大本营不只是打卡，也可以成为生日、纪念日和人生阶段的仪式；Leon 一行人在 5300 米用苹果派庆祝生日和结婚纪念日。 | [EBC徒步山中第七天 珠峰大本营过生日 结婚纪念日感言 三十岁感言 9年情侣的动容感谢｜万物非我所有 为我所用｜过一场平衡的人生｜走向珠峰大本营的艰难最后一公里｜挑战自然其实是挑战自己](https://www.youtube.com/watch?v=fborRcLl2wE) | 00:07:23-00:08:47 | no
+ev_experience_010 | 旅行体验, 新西兰, 霍比特村, 亲子, 童心 | high | 新西兰霍比特村适合推荐给亲子旅行和想恢复童心的人；场景里有真实花草、房子、山坡和大量羊，即使不是影迷也有童话感。 | [保持童心 过有生命力的日子｜新西兰自驾游小朋友们最爱的地方｜霍比特村 一场萌化治愈的旅行｜不是影迷也很爱的可爱童话世界](https://www.youtube.com/watch?v=SLXH1dqUwek) | 00:03:01-00:04:33 | no
+ev_experience_011 | 旅行体验, 新西兰, 萤火虫洞, 青旅, 年轻人 | high | 新西兰萤火虫洞和 Lost World 探险适合推荐给愿意把钱花在人生经历上的年轻人：可以住便宜青旅，把预算用于 7 小时绳索速降、攀岩、洞穴和跳水探险。 | [年轻的时候钱花在哪里｜住10美金的青旅，爬400美金的山洞｜住青旅和房车旅行的精彩人生故事｜年轻人这样在新西兰旅行还能赚钱｜挑战7小时萤火虫山洞涉水徒步](https://www.youtube.com/watch?v=ueRwozoFztk) | 00:02:30-00:03:57 | no
+ev_experience_012 | 旅行体验, 英国, 伦敦, 圣诞, 灯展 | high | 伦敦圣诞适合推荐给想体验城市节日氛围的人：Regent Street、Oxford Street 和 Carnaby Street 一带有经典灯展，梦幻但非常拥挤。 | [人生体验推荐：在伦敦过梦幻圣诞｜年度经典的伦敦圣诞灯展｜与街上偶遇的修行者聊瑜伽智慧｜我们该如何训练大脑｜如何让内在更富有｜在Battersea 感受伦敦创新｜伦敦热门网红餐厅Dishoom](https://www.youtube.com/watch?v=6Z4PFwzR9bw) | 00:00:02-00:00:41 | no
+ev_experience_013 | 旅行体验, 土耳其, 伊斯坦堡, 本地生活, 咖啡 | high | 伊斯坦堡可以推荐本地生活型体验：喝土耳其红茶、尝 burek、体验加香料的土耳其咖啡和咖啡占卜，比单纯看景点更贴近当地生活。 | [与一对土耳其穆斯林与基督教信徒夫妇体验本地生活｜爱要互相包容欣赏甚至仰慕｜土耳其咖啡占卜解密｜土耳其红茶原来这样煮｜看伊斯坦堡全景要去这](https://www.youtube.com/watch?v=Et_raLmDixc) | 00:02:52-00:03:52 | no
+ev_experience_014 | 旅行体验, 瑞士, 采尔马特, 滑雪, 观光列车 | high | 瑞士采尔马特适合推荐给喜欢雪山、滑雪和观光列车的人；视频把它称为“此生必去的滑雪天堂”，沿途有阿尔卑斯雪山、草甸和观光列车景观。 | [1000个人生体验-滑雪篇｜此生必去的滑雪天堂｜瑞士采尔马特｜绝美的瑞士观光列车｜偶遇揭秘真相的以色列伙伴｜米兰惊艳意面](https://www.youtube.com/watch?v=YKcA7U8bOTo) | 00:04:33-00:06:04 | no
+ev_experience_015 | 旅行体验, 日本, 熊野古道, 徒步, 社群 | high | 当前资料能确认 Leon 曾和社群伙伴一起进行熊野古道徒步，但这条证据只提供背景，不足以支撑具体路线或攻略推荐。 | [【社群特辑】MultiFIRE Club开园派对｜感受社群的同频力量｜年轻时踩坑吃亏都是福｜公司其实是发奖学金的学校｜人生可以是快乐的开盲盒｜在MultiFIRE路上体验了半年的小伙伴是什么体会](https://www.youtube.com/watch?v=leljii5rM94) | 00:01:00-00:02:30 | no

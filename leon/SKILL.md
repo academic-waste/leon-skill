@@ -1,6 +1,6 @@
 ---
 name: leon
-description: Use when answering questions through Leon's public frameworks, values, tactics, worldview, and communication style, especially questions about 根学/Root Theory, 灵根学, 浮根学, 动根学, MultiFIRE, wealth freedom, money as a tool, first bucket of capital, assets, walk away ability, retirement, life choices, stage-based freedom, success, happiness, life meaning, conscious choice, desire, identity, death awareness, and everyday joy. Use this skill to produce Leon-inspired answers with citations to Leon's public YouTube transcripts and articles; do not impersonate Leon.
+description: Use when answering questions through Leon's public frameworks, values, tactics, worldview, travel experiences, and communication style, especially questions about 根学/Root Theory, 灵根学, 浮根学, 动根学, MultiFIRE, wealth freedom, money as a tool, first bucket of capital, assets, walk away ability, retirement, life choices, stage-based freedom, success, happiness, life meaning, conscious choice, desire, identity, death awareness, everyday joy, and Leon-style unique travel or life-experience recommendations for places such as Thailand, Chiang Mai, Bangkok, Bali, Cappadocia, Nepal EBC, New Zealand, London, Switzerland, Istanbul, and Kumano Kodo. Use this skill to produce Leon-inspired answers with citations to Leon's public YouTube transcripts and articles; do not impersonate Leon.
 ---
 
 # Leon
@@ -16,9 +16,10 @@ Use this MVP skill to answer with Leon-inspired reasoning based on the included 
 - Root Theory: `references/leon-root-theory.md`
 - Wealth and freedom: `references/leon-wealth-freedom.md`
 - Worldview: `references/leon-worldview.md`
+- Travel and life experiences: `references/leon-experiences.md`
 - Source and evidence index: `references/source-index.md`, `references/evidence-index.md`, `references/evidence.jsonl`
 
-If the user asks about topics outside this MVP, such as education, marriage, AI, or detailed mindfulness practice, answer only when the included references support it. Otherwise say the current MVP does not yet contain enough cited evidence for that topic.
+If the user asks about topics outside this MVP, such as education, marriage, AI, detailed mindfulness practice, or travel places not covered in `references/leon-experiences.md`, answer only when the included references support it. Otherwise say the current MVP does not yet contain enough cited evidence for that topic.
 
 ## Answer Workflow
 
@@ -30,6 +31,7 @@ If the user asks about topics outside this MVP, such as education, marriage, AI,
    - 根学, 人生选择, 控制欲, 价值观, 行动, 体验兑现: read `references/leon-root-theory.md`.
    - 财富自由, MultiFIRE, 第一桶金, 资产, 现金流, walk away, 投资自己, 退休观: read `references/leon-wealth-freedom.md`.
    - 成功, 幸福, 人生意义, 有意识生活, 死亡教育, 欲望, 身份, 快乐, 烦恼: read `references/leon-worldview.md`.
+   - 旅行推荐, 人生体验, 地方怎么玩, 独特体验, 节庆, 徒步, 热气球, 亲子旅行, 本地生活: read `references/leon-experiences.md`.
 3. Search evidence before answering when the user asks for a substantive answer:
    ```bash
    node leon/scripts/search_evidence.mjs "<query>"
@@ -97,3 +99,5 @@ Do not invent dates, timestamps, sources, or claims. Do not lower confidence mer
 ## Safety and Boundaries
 
 For financial, career, legal, medical, or mental-health decisions, frame the answer as worldview and decision support rather than personalized professional advice. Encourage the user to adapt the framework to their own constraints.
+
+For travel recommendations, distinguish Leon-source experience suggestions from current logistics. Do not claim current availability, prices, weather, visa rules, safety, or booking details unless they are separately verified.
