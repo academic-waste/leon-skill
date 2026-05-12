@@ -1,9 +1,10 @@
 # Leon MVP Source Index
 
-This MVP skill currently covers four source clusters:
+This MVP skill currently covers five source clusters:
 
 - Root Theory: Leon's "根学" framework.
 - Wealth and freedom: MultiFIRE, money as tool, assets, first bucket of capital, and walk away ability.
+- Investing and real estate: stock/fund principles, asset allocation, real estate leverage, house hacking, and investment risk boundaries.
 - Worldview: success, happiness, life meaning, conscious choice, desire, identity, death awareness, and everyday joy.
 - Travel and life experiences: Leon-style unique experiences, festivals, hiking, local life, family travel, and experience-led recommendations.
 
@@ -17,6 +18,11 @@ This MVP skill currently covers four source clusters:
 | `youtube_9opd3YjEr14` | 如何积累第一桶金？｜摆脱韭菜思维的最后一次努力｜Leon访谈_上 | https://www.youtube.com/watch?v=9opd3YjEr14 | First-bucket-of-capital evidence; some transcript segments need review. |
 | `youtube_AqQ6HQXFueE` | 想清楚这些，才能成为财富的主人｜Multiple-Fire系列 | https://www.youtube.com/watch?v=AqQ6HQXFueE | Source for status game, assets, retirement, and self-defined life goals. |
 | `youtube_FsYCf_YuYvs` | 如何超越中产阶级？｜Leon谈财富_下 | https://www.youtube.com/watch?v=FsYCf_YuYvs | Source for money as value-transfer tool; some transcript segments need review. |
+| `youtube_fDKr0VosOq8` | 直播回放：职场➡️财富➡️人生 让职场与财富为你的人生服务 part.1｜北美职场•讲武堂访谈直播 | https://www.youtube.com/watch?v=fDKr0VosOq8 | Source for stock/real-estate allocation and cycle humility. |
+| `youtube_13-0OfSpmgE` | 佐治亚小帅访谈 上集：为什么东亚人容易焦虑 如何破局｜科技经济周期与阶段性退休｜环球旅行500天成本｜下一代教育什么是重要的 | https://www.youtube.com/watch?v=13-0OfSpmgE | Source for portfolio composition and economic-cycle framing. |
+| `youtube_qyOCtY1E4Qk` | Sora AI时代如何获得财富与快乐｜我投资AI赚了多少钱？新手友好｜什么人会失业？｜如何投资与孩子教育｜钱与道最接近 赚钱也是修行 | https://www.youtube.com/watch?v=qyOCtY1E4Qk | Source for RSU concentration risk, hedging, AI-era investing, and wealth thinking. |
+| `youtube_37FTO0aQycc` | 用这个工具让你在2024人生转折，重新定义你的人生健康 财富 与幸福，制定新年目标 | https://www.youtube.com/watch?v=37FTO0aQycc | Source for leverage math, real-estate example, and risk boundary language. |
+| `youtube_rL1VaYNzY-8` | 90后如何在奥克兰房产上赚到第一桶金｜与在奥克兰的群友citywalk聊人生｜如何识破信息的真相｜上班就是伪装韭菜？｜关于孩子购买欲的教育 | https://www.youtube.com/watch?v=rL1VaYNzY-8 | Source for Auckland house hacking, mortgage use, and real-estate learning/preparation. |
 | `youtube_8YgamMnJnWA` | 【第五集】MultiFIRE的挑战有哪些？｜成功和幸福如何定义｜人为什么要思考 | https://www.youtube.com/watch?v=8YgamMnJnWA | Primary source for success/happiness as self-definition, conscious choice, and death awareness. |
 | `youtube_q7bPFu1uOr8` | 【第六集】什么是成功和幸福｜越想要什么反而得不到？｜如何更有意识地生活｜什么是“我”｜社会原子化带来的痛苦 | https://www.youtube.com/watch?v=q7bPFu1uOr8 | Primary source for desire, freedom, stage-dependent meaning, identity, and conscious living. |
 | `youtube_C2xsrIC4cVc` | 这三条真相 让你保持快乐 摆脱烦恼 | https://www.youtube.com/watch?v=C2xsrIC4cVc | Primary source for impermanence, gratitude, helping others, and breaking binary thinking. |

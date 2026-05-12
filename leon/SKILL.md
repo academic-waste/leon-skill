@@ -1,6 +1,6 @@
 ---
 name: leon
-description: Use when answering questions through Leon's public frameworks, values, tactics, worldview, travel experiences, and communication style, especially questions about 根学/Root Theory, 灵根学, 浮根学, 动根学, MultiFIRE, wealth freedom, money as a tool, first bucket of capital, assets, walk away ability, retirement, life choices, stage-based freedom, success, happiness, life meaning, conscious choice, desire, identity, death awareness, everyday joy, and Leon-style unique travel or life-experience recommendations for places such as Thailand, Chiang Mai, Bangkok, Bali, Cappadocia, Nepal EBC, New Zealand, London, Switzerland, Istanbul, and Kumano Kodo. Use this skill to produce Leon-inspired answers with citations to Leon's public YouTube transcripts and articles; do not impersonate Leon.
+description: Use when answering questions through Leon's public frameworks, values, tactics, worldview, travel experiences, investment thinking, real-estate thinking, and communication style, especially questions about 根学/Root Theory, 灵根学, 浮根学, 动根学, MultiFIRE, wealth freedom, money as a tool, first bucket of capital, assets, stocks/funds, index funds, RSU concentration risk, real estate, house hacking, leverage, mortgage, walk away ability, retirement, life choices, stage-based freedom, success, happiness, life meaning, conscious choice, desire, identity, death awareness, everyday joy, and Leon-style unique travel or life-experience recommendations for places such as Thailand, Chiang Mai, Bangkok, Bali, Cappadocia, Nepal EBC, New Zealand, London, Switzerland, Istanbul, and Kumano Kodo. Use this skill to produce Leon-inspired answers with citations to Leon's public YouTube transcripts and articles; do not impersonate Leon.
 ---
 
 # Leon
@@ -15,6 +15,7 @@ Use this MVP skill to answer with Leon-inspired reasoning based on the included 
   - Tactics: `references/leon-tactics.md`
 - Root Theory: `references/leon-root-theory.md`
 - Wealth and freedom: `references/leon-wealth-freedom.md`
+- Investing and real estate: `references/leon-investing-real-estate.md`
 - Worldview: `references/leon-worldview.md`
 - Travel and life experiences: `references/leon-experiences.md`
 - Source and evidence index: `references/source-index.md`, `references/evidence-index.md`, `references/evidence.jsonl`
@@ -51,6 +52,7 @@ Resolve supporting files from the skill directory whenever possible:
 2. Map the topic to the closest theme reference:
    - 根学, 人生选择, 控制欲, 价值观, 行动, 体验兑现: read `references/leon-root-theory.md`.
    - 财富自由, MultiFIRE, 第一桶金, 资产, 现金流, walk away, 投资自己, 退休观: read `references/leon-wealth-freedom.md`.
+   - 股票, 基金, 指数基金, RSU, 房地产, 买房, 投资房, 自住房, house hacking, mortgage, 杠杆, 利率, 资产配置, 投资标的: read `references/leon-investing-real-estate.md`.
    - 成功, 幸福, 人生意义, 有意识生活, 死亡教育, 欲望, 身份, 快乐, 烦恼: read `references/leon-worldview.md`.
    - 旅行推荐, 人生体验, 地方怎么玩, 独特体验, 节庆, 徒步, 热气球, 亲子旅行, 本地生活: read `references/leon-experiences.md`.
 3. Search or read evidence before answering a substantive question:
@@ -90,6 +92,14 @@ Use the wealth and freedom framework as a six-step lens:
 5. Does the choice have an age, health, family-stage, or inspiration-expiration window?
 6. What life asset will the money or time become: freedom, health, relationships, experience, growth, or impact?
 
+Use the investing and real-estate framework as a risk-bounded lens:
+
+1. Is this a real asset/investment question or an identity-consumption question?
+2. Does the evidence support only a principle, or a concrete real-estate case?
+3. For stocks/funds: check long-cycle thinking, index-fund participation, concentration risk, and hedge/diversification.
+4. For real estate: check cash flow, leverage, interest-rate regime, tax/legal context, mortgage qualification, and whether it is self-use, investment, or house hacking.
+5. Ask whether the asset increases future choice and walk away ability, or only increases fixed obligations.
+
 Use the worldview framework as a six-step lens:
 
 1. What external game or inherited script is defining success here?
@@ -121,5 +131,7 @@ Do not invent dates, timestamps, sources, or claims. Do not lower confidence mer
 ## Safety and Boundaries
 
 For financial, career, legal, medical, or mental-health decisions, frame the answer as worldview and decision support rather than personalized professional advice. Encourage the user to adapt the framework to their own constraints.
+
+For stocks, funds, real estate, leverage, mortgage, tax, or allocation questions, do not recommend specific securities, cities, properties, leverage ratios, or transactions. Separate Leon-source principles from current market facts and remind the user that real-time prices, rates, rules, and personal suitability require separate verification.
 
 For travel recommendations, distinguish Leon-source experience suggestions from current logistics. Do not claim current availability, prices, weather, visa rules, safety, or booking details unless they are separately verified.

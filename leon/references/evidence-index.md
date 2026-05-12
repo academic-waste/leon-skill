@@ -2,7 +2,7 @@
 
 This is the seed evidence layer generated from curated transcript chunks. It is not the final skill reference, but the traceable support for it.
 
-Total evidence cards: 47
+Total evidence cards: 58
 
 | ID | Themes | Confidence | Claim | Source | Time | Review |
 |---|---|---|---|---|---|---|
@@ -53,3 +53,14 @@ ev_experience_012 | 旅行体验, 英国, 伦敦, 圣诞, 灯展 | high | 伦敦
 ev_experience_013 | 旅行体验, 土耳其, 伊斯坦堡, 本地生活, 咖啡 | high | 伊斯坦堡可以推荐本地生活型体验：喝土耳其红茶、尝 burek、体验加香料的土耳其咖啡和咖啡占卜，比单纯看景点更贴近当地生活。 | [与一对土耳其穆斯林与基督教信徒夫妇体验本地生活｜爱要互相包容欣赏甚至仰慕｜土耳其咖啡占卜解密｜土耳其红茶原来这样煮｜看伊斯坦堡全景要去这](https://www.youtube.com/watch?v=Et_raLmDixc) | 00:02:52-00:03:52 | no
 ev_experience_014 | 旅行体验, 瑞士, 采尔马特, 滑雪, 观光列车 | high | 瑞士采尔马特适合推荐给喜欢雪山、滑雪和观光列车的人；视频把它称为“此生必去的滑雪天堂”，沿途有阿尔卑斯雪山、草甸和观光列车景观。 | [1000个人生体验-滑雪篇｜此生必去的滑雪天堂｜瑞士采尔马特｜绝美的瑞士观光列车｜偶遇揭秘真相的以色列伙伴｜米兰惊艳意面](https://www.youtube.com/watch?v=YKcA7U8bOTo) | 00:04:33-00:06:04 | no
 ev_experience_015 | 旅行体验, 日本, 熊野古道, 徒步, 社群 | high | 当前资料能确认 Leon 曾和社群伙伴一起进行熊野古道徒步，但这条证据只提供背景，不足以支撑具体路线或攻略推荐。 | [【社群特辑】MultiFIRE Club开园派对｜感受社群的同频力量｜年轻时踩坑吃亏都是福｜公司其实是发奖学金的学校｜人生可以是快乐的开盲盒｜在MultiFIRE路上体验了半年的小伙伴是什么体会](https://www.youtube.com/watch?v=leljii5rM94) | 00:01:00-00:02:30 | no
+ev_investing_001 | 投资, 反骗局, 消费主义, 中产路径 | medium | 当一个机会同时承诺见效快、风险低、回报高时，Leon 会把它视为骗局信号；走出中产惯性也要警惕把买车买房等身份消费当成财富升级。 | [如何超越中产阶级？｜Leon谈财富_下](https://www.youtube.com/watch?v=FsYCf_YuYvs) | 00:00:00-00:01:12 | yes
+ev_investing_002 | 投资, 股票基金, 指数基金, 长期主义, 反人性 | medium | 寻找好投资标的首先要反人性：不要既怕风险又贪高回报；回报周期长的事往往相对风险更低，普通人可通过大盘指数基金参与长期增长。 | [如何超越中产阶级？｜Leon谈财富_下](https://www.youtube.com/watch?v=FsYCf_YuYvs) | 00:04:57-00:06:18 | yes
+ev_investing_003 | 投资, 资产, 杠杆, 通胀, 房地产 | high | Leon 把持有有限资产和在合适条件下使用杠杆看成应对通胀的方式：借来的钱可能贬值，而资产有机会随时间升值。 | [打工人如何获得财富自由？｜什么才是真正的财富和真正的自由？（中文字幕）｜Multiple-Fire系列](https://www.youtube.com/watch?v=9LKJ8JdLtfI) | 00:04:28-00:05:02 | no
+ev_investing_004 | 房地产, 买房, 房贷, 杠杆, 利率环境, 工资, 认知 | medium | 房地产杠杆是否有效取决于利率时代和个人资质；低利率时工资可以帮助办理 mortgage 和加杠杆，但具体建议会随环境失效，底层认知比照抄建议更重要。 | [如何积累第一桶金？｜摆脱韭菜思维的最后一次努力｜Leon访谈_上](https://www.youtube.com/watch?v=9opd3YjEr14) | 00:18:56-00:20:02 | yes
+ev_investing_005 | 资产配置, 股票, 地产, PE, 周期 | high | Leon 的资产配置讨论中，股票和地产是主要仓位，另有小比例项目/PE和收藏品；他同时提醒财富增长很大程度来自周期，不要把周期红利误认成个人投资理论特别高明。 | [直播回放：职场➡️财富➡️人生 让职场与财富为你的人生服务 part.1｜北美职场•讲武堂访谈直播](https://www.youtube.com/watch?v=fDKr0VosOq8) | 00:09:03-00:09:43 | no
+ev_investing_006 | 资产配置, 地产, 股票基金, PE, 收藏品 | medium | Leon 曾把自己的 portfolio 作为示例描述为大致平衡在地产、股票基金、PE 和小比例收藏品之间；这说明他关注资产配置，而不是单一押注。 | [佐治亚小帅访谈 上集：为什么东亚人容易焦虑 如何破局｜科技经济周期与阶段性退休｜环球旅行500天成本｜下一代教育什么是重要的](https://www.youtube.com/watch?v=13-0OfSpmgE) | 00:24:08-00:24:25 | yes
+ev_investing_007 | 股票, RSU, 集中风险, 分散投资, 科技公司 | high | Leon 转述导师对科技公司股票/RSU的建议：已归属股票到账后可卖出并换成其他投资，因为未归属股票和职业收入已经让人继续暴露在公司上涨或下跌中。 | [Sora AI时代如何获得财富与快乐｜我投资AI赚了多少钱？新手友好｜什么人会失业？｜如何投资与孩子教育｜钱与道最接近 赚钱也是修行](https://www.youtube.com/watch?v=qyOCtY1E4Qk) | 00:17:21-00:18:15 | no
+ev_investing_008 | 股票, 对冲, 分散投资, 赛道投资, 风险管理 | high | Leon 用 hedge fund 思路解释分散：即使看好一个方向，也可以把一小部分配置到不同方向或竞争对手，以降低单一路径判断错误的风险。 | [Sora AI时代如何获得财富与快乐｜我投资AI赚了多少钱？新手友好｜什么人会失业？｜如何投资与孩子教育｜钱与道最接近 赚钱也是修行](https://www.youtube.com/watch?v=qyOCtY1E4Qk) | 00:18:15-00:18:54 | no
+ev_investing_009 | 房地产, 买房, 房贷, 杠杆, 资产回报率, 利率, 风险边界 | high | Leon 用房产例子说明杠杆能加快收购资产并提高权益回报，但这个例子只适用于某些地区和时代，关键是冷静观察自己所处地方和时代有哪些杠杆值得使用。 | [用这个工具让你在2024人生转折，重新定义你的人生健康 财富 与幸福，制定新年目标](https://www.youtube.com/watch?v=37FTO0aQycc) | 00:13:58-00:15:21 | no
+ev_investing_010 | 房地产, 买房, 房贷, house hacking, 自住房, 开发, mortgage | medium | 奥克兰案例展示了 house hacking 思路：以自住房方式买入可开发地块，自住、贷款条件、税务规则和开发收益可能结合；工作现金流也可以成为办理 mortgage 的工具。 | [90后如何在奥克兰房产上赚到第一桶金｜与在奥克兰的群友citywalk聊人生｜如何识破信息的真相｜上班就是伪装韭菜？｜关于孩子购买欲的教育](https://www.youtube.com/watch?v=rL1VaYNzY-8) | 00:03:21-00:04:30 | yes
+ev_investing_011 | 房地产, 学习, 知识付费, 机会成本, 准备期 | medium | 在等待身份或市场条件时，Leon 肯定先学习、研究和付费获取有效信息的做法；有价值的知识可能节省时间并降低机会成本。 | [90后如何在奥克兰房产上赚到第一桶金｜与在奥克兰的群友citywalk聊人生｜如何识破信息的真相｜上班就是伪装韭菜？｜关于孩子购买欲的教育](https://www.youtube.com/watch?v=rL1VaYNzY-8) | 00:04:45-00:06:27 | no

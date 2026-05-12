@@ -19,6 +19,13 @@ Current MVP coverage:
   - assets and cash flow
   - walk away ability
   - investing in yourself
+- Investing and real estate
+  - stock/fund principles
+  - broad index fund framing
+  - RSU and concentration risk
+  - real-estate leverage
+  - mortgage and rate-regime thinking
+  - house hacking as a local case pattern
 - Worldview
   - success and happiness
   - life meaning
@@ -114,6 +121,9 @@ From the repo root, Codex and Claude Code can test evidence search with:
 node leon/scripts/search_evidence.mjs 根学
 node leon/scripts/search_evidence.mjs 财富自由
 node leon/scripts/search_evidence.mjs 第一桶金
+node leon/scripts/search_evidence.mjs 指数基金
+node leon/scripts/search_evidence.mjs 房地产 杠杆
+node leon/scripts/search_evidence.mjs RSU 集中风险
 node leon/scripts/search_evidence.mjs 人生意义
 node leon/scripts/search_evidence.mjs 幸福
 node leon/scripts/search_evidence.mjs 清迈
@@ -138,6 +148,7 @@ If script execution is unavailable, read `leon/references/chatgpt-quick-evidence
 - `leon/references/leon-tactics.md`: practical tactics and exercises
 - `leon/references/leon-root-theory.md`: Root Theory reference
 - `leon/references/leon-wealth-freedom.md`: wealth and freedom reference
+- `leon/references/leon-investing-real-estate.md`: investing, stocks/funds, real-estate, leverage, and house-hacking reference
 - `leon/references/leon-worldview.md`: success, happiness, and life meaning reference
 - `leon/references/leon-experiences.md`: travel and life-experience recommendations
 - `leon/references/evidence.jsonl`: machine-readable evidence cards

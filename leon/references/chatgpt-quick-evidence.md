@@ -83,6 +83,35 @@ Use for questions about success, happiness, meaning, conscious choice, death awa
   Source: same video, 00:10:13-00:11:43
   URL: https://www.youtube.com/watch?v=o8cVm323BMo
 
+## Investing And Real Estate
+
+Use for questions about stocks, funds, index funds, RSU, real estate, buying a home, investment property, house hacking, leverage, mortgage, asset allocation, and investment targets. These are principles from Leon's public content, not personalized investment advice.
+
+- `ev_investing_001`: If an opportunity promises fast results, low risk, and high returns at the same time, treat it as a scam signal; buying cars/homes can become a middle-class identity route rather than wealth upgrading. `needs_review`
+  Source: 《如何超越中产阶级？｜Leon谈财富_下》, 00:00:00-00:01:12
+  URL: https://www.youtube.com/watch?v=FsYCf_YuYvs
+- `ev_investing_002`: Good investing requires going against human instincts; long-return-cycle assets can be lower risk, and broad index funds are one way ordinary people can participate in long-term growth. `needs_review`
+  Source: same video, 00:04:57-00:06:18
+  URL: https://www.youtube.com/watch?v=FsYCf_YuYvs
+- `ev_investing_004`: Real-estate leverage depends on rate regime and personal qualifications; a low-rate mortgage opportunity can expire, so the model matters more than copying one old tactic. `needs_review`
+  Source: 《如何积累第一桶金？｜摆脱韭菜思维的最后一次努力｜Leon访谈_上》, 00:18:56-00:20:02
+  URL: https://www.youtube.com/watch?v=9opd3YjEr14
+- `ev_investing_005`: Leon's asset-allocation discussion names stocks and real estate as major holdings, with smaller PE/project and collectible exposure, while warning that wealth growth often comes from cycles rather than personal genius.
+  Source: 《直播回放：职场➡️财富➡️人生 让职场与财富为你的人生服务 part.1｜北美职场•讲武堂访谈直播》, 00:09:03-00:09:43
+  URL: https://www.youtube.com/watch?v=fDKr0VosOq8
+- `ev_investing_007`: For tech-company RSU/company stock, vested shares can be sold and converted into other investments because unvested shares and career income already create company-specific exposure.
+  Source: 《Sora AI时代如何获得财富与快乐｜我投资AI赚了多少钱？新手友好｜什么人会失业？｜如何投资与孩子教育｜钱与道最接近 赚钱也是修行》, 00:17:21-00:18:15
+  URL: https://www.youtube.com/watch?v=qyOCtY1E4Qk
+- `ev_investing_008`: Even when one direction looks attractive, a small allocation to another direction or competitor can act as a hedge against single-path risk.
+  Source: same video, 00:18:15-00:18:54
+  URL: https://www.youtube.com/watch?v=qyOCtY1E4Qk
+- `ev_investing_009`: Leverage can speed asset acquisition and increase equity return in a real-estate example, but the example only applies to specific regions and eras and is not investment advice.
+  Source: 《用这个工具让你在2024人生转折，重新定义你的人生健康 财富 与幸福，制定新年目标》, 00:13:58-00:15:21
+  URL: https://www.youtube.com/watch?v=37FTO0aQycc
+- `ev_investing_010`: The Auckland house-hacking case combines self-use housing, mortgage access, tax/legal structure, and development potential; treat it as a local-case pattern, not universal advice. `needs_review`
+  Source: 《90后如何在奥克兰房产上赚到第一桶金｜与在奥克兰的群友citywalk聊人生｜如何识破信息的真相｜上班就是伪装韭菜？｜关于孩子购买欲的教育》, 00:03:21-00:04:30
+  URL: https://www.youtube.com/watch?v=rL1VaYNzY-8
+
 ## Travel And Life Experience
 
 Use for questions about Leon-style travel recommendations, life experiences, and places that appear in the current MVP.
