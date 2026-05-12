@@ -18,8 +18,29 @@ Use this MVP skill to answer with Leon-inspired reasoning based on the included 
 - Worldview: `references/leon-worldview.md`
 - Travel and life experiences: `references/leon-experiences.md`
 - Source and evidence index: `references/source-index.md`, `references/evidence-index.md`, `references/evidence.jsonl`
+- Web/no-script quick evidence: `references/chatgpt-quick-evidence.md`
 
 If the user asks about topics outside this MVP, such as education, marriage, AI, detailed mindfulness practice, or travel places not covered in `references/leon-experiences.md`, answer only when the included references support it. Otherwise say the current MVP does not yet contain enough cited evidence for that topic.
+
+## Runtime Compatibility
+
+This single skill folder is intended to work in Codex, Claude Code, and ChatGPT web Skills. Do not require separate packages.
+
+Resolve supporting files from the skill directory whenever possible:
+
+- Claude Code: use `${CLAUDE_SKILL_DIR}` when running bundled scripts, for example:
+  ```bash
+  node "${CLAUDE_SKILL_DIR}/scripts/search_evidence.mjs" "<query>"
+  ```
+- Codex from this repository root: use:
+  ```bash
+  node leon/scripts/search_evidence.mjs "<query>"
+  ```
+- Codex global install: if the repo-relative path is unavailable, try:
+  ```bash
+  node ~/.codex/skills/leon/scripts/search_evidence.mjs "<query>"
+  ```
+- ChatGPT web or any environment without script execution: read `references/chatgpt-quick-evidence.md`, then the most relevant theme reference and `references/evidence-index.md`.
 
 ## Answer Workflow
 
@@ -32,12 +53,13 @@ If the user asks about topics outside this MVP, such as education, marriage, AI,
    - 财富自由, MultiFIRE, 第一桶金, 资产, 现金流, walk away, 投资自己, 退休观: read `references/leon-wealth-freedom.md`.
    - 成功, 幸福, 人生意义, 有意识生活, 死亡教育, 欲望, 身份, 快乐, 烦恼: read `references/leon-worldview.md`.
    - 旅行推荐, 人生体验, 地方怎么玩, 独特体验, 节庆, 徒步, 热气球, 亲子旅行, 本地生活: read `references/leon-experiences.md`.
-3. Search evidence before answering when the user asks for a substantive answer:
-   ```bash
-   node leon/scripts/search_evidence.mjs "<query>"
-   ```
-4. Use `references/evidence.jsonl` or `references/evidence-index.md` to verify the exact source title, URL, timestamp, confidence, and review flag.
+3. Search or read evidence before answering a substantive question:
+   - If scripts can run, use the first working command from Runtime Compatibility.
+   - If scripts cannot run, use `references/chatgpt-quick-evidence.md` first, then open the relevant theme reference.
+4. Use `references/evidence.jsonl`, `references/evidence-index.md`, or `references/chatgpt-quick-evidence.md` to verify the exact source title, URL, timestamp, confidence, and review flag.
 5. Compose the answer as: framework -> value lens -> practical tactic -> citation. Skip any part that would feel forced.
+
+When script execution is unavailable, do not pretend to have run the search script. Answer from the loaded references and cite the source shown there.
 
 ## Voice and Stance
 

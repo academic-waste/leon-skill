@@ -7,7 +7,7 @@ const evidencePath = path.join(scriptDir, "..", "references", "evidence.jsonl");
 const query = process.argv.slice(2).join(" ").trim();
 
 if (!query) {
-  console.error("Usage: node leon/scripts/search_evidence.mjs <query>");
+  console.error("Usage: node path/to/search_evidence.mjs <query>");
   process.exit(1);
 }
 
